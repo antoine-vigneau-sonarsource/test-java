@@ -9,4 +9,9 @@ public class HelloWorldUnitTest {
     new HelloWorld().coveredByUnitTest1();
   }
 
+  @Test
+  public void test2() {
+    new HelloWorld().coveredByUnitTest2();
+  }
+
 }

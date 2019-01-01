@@ -5,7 +5,7 @@
 
   <groupId>org.sonarqube</groupId>
   <artifactId>parent</artifactId>
-  <version>BASELINE</version>
+  <version>SNAPSHOT</version>
 
   <name>Simple JAVA project</name>
 

@@ -10,4 +10,12 @@ public class HelloWorld {
     System.out.println("notCoveredByUnitTest1");
   }
 
+  public void coveredByUnitTest2() {
+    System.out.println("coveredByUnitTest2");
+  }
+
+  public void notCoveredByUnitTest2() {
+    System.out.println("notCoveredByUnitTest2");
+  }
+
 }
